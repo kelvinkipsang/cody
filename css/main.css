@@ -1,0 +1,36 @@
+ul
+{
+    line-height: 10px;
+    list-style-type: none;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+
+.link1{
+    font-size: 20px;
+}
+
+.small-6 columns div{
+    padding-bottom: 10px;
+}
+h1{
+    text-align: center;
+    font-family: helvetica;
+    font-size: 30px;
+}
+
+.space{
+    color: white;
+}
+.para{
+    font-size: 10px;
+}
+body{
+    font-size: 0px;
+}
+.columns p{
+ font: 10px;   
+}
+h2{
+    font-size: 15px;
+}
